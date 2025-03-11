@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# Code Safety Checked by Synk - Make a template to changes for our team 
 # ANSI color codes
 RED='\033[91m'
 GREEN='\033[92m'
